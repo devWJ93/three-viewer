@@ -2,7 +2,7 @@
 
 PBR rendering experiment of a single model, convenient comparison of rendering equations, based on Threejs and [Envtools](https://github.com/todaylg/envTools)
 
-[Online Demo](https://todaylg.github.io/three-viewer/)
+[Online Demo](https://devwj93.github.io/three-viewer/)
 
 ![image](https://github.com/todaylg/three-viewer/blob/master/intro/zelda.png)
 
