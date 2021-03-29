@@ -1,0 +1,11 @@
+{
+	"restroom_01_0304": {
+		"version": 1,
+		"id": "restroom_01_0304",
+		"name": "1",
+		"kind": "Puppeteer",
+		"mood": null,
+		"postPlaybackMood": null,
+		"duration": 8.291666667
+	}
+}
